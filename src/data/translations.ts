@@ -1,0 +1,142 @@
+export const translations = {
+  en: {
+    selectLanguage: 'Select Language',
+    level: 'Level',
+    score: 'Score',
+    continue: 'Continue to Next Level',
+    levelComplete: 'Level Complete!',
+    assessmentComplete: 'Assessment Complete!',
+    finalScore: 'Final Score',
+    proficiencyLevel: 'Your Proficiency Level',
+    recommendations: 'Recommendations',
+    startNew: 'Start New Assessment',
+    proficiency: {
+      Novice: 'Novice',
+      Intermediate: 'Intermediate',
+      Advanced: 'Advanced'
+    },
+    landing: {
+      title: 'Cybersecurity Assessment Challenge',
+      subtitle: 'Test your knowledge and learn how to protect yourself in the digital world',
+      timeEstimate: 'Estimated Time',
+      timeDetail: '30-45 minutes to complete all levels',
+      scoring: 'Scoring System',
+      scoringDetail: 'Earn up to 100 points per level with immediate feedback',
+      levels: 'Difficulty Levels',
+      levelsDetail: 'Progressive challenges from beginner to advanced',
+      whatToExpect: 'What to Expect',
+      level1Title: 'Beginner Level',
+      level1Description: 'Basic security concepts and everyday safety practices',
+      level2Title: 'Intermediate Level',
+      level2Description: 'Advanced threats and protection strategies',
+      level3Title: 'Advanced Level',
+      level3Description: 'Complex scenarios and expert-level challenges',
+      startButton: 'Start Assessment'
+    }
+  },
+  de: {
+    selectLanguage: 'Sprache auswählen',
+    level: 'Level',
+    score: 'Punktzahl',
+    continue: 'Weiter zum nächsten Level',
+    levelComplete: 'Level abgeschlossen!',
+    assessmentComplete: 'Bewertung abgeschlossen!',
+    finalScore: 'Endpunktzahl',
+    proficiencyLevel: 'Ihr Kenntnisniveau',
+    recommendations: 'Empfehlungen',
+    startNew: 'Neue Bewertung starten',
+    proficiency: {
+      Novice: 'Anfänger',
+      Intermediate: 'Fortgeschritten',
+      Advanced: 'Experte'
+    },
+    landing: {
+      title: 'Cybersicherheits-Bewertung',
+      subtitle: 'Testen Sie Ihr Wissen und lernen Sie, sich in der digitalen Welt zu schützen',
+      timeEstimate: 'Geschätzte Zeit',
+      timeDetail: '30-45 Minuten für alle Level',
+      scoring: 'Punktesystem',
+      scoringDetail: 'Verdienen Sie bis zu 100 Punkte pro Level mit sofortigem Feedback',
+      levels: 'Schwierigkeitsgrade',
+      levelsDetail: 'Progressive Herausforderungen von Anfänger bis Fortgeschritten',
+      whatToExpect: 'Was Sie erwartet',
+      level1Title: 'Anfänger-Level',
+      level1Description: 'Grundlegende Sicherheitskonzepte und alltägliche Sicherheitspraktiken',
+      level2Title: 'Fortgeschrittenen-Level',
+      level2Description: 'Fortgeschrittene Bedrohungen und Schutzstrategien',
+      level3Title: 'Experten-Level',
+      level3Description: 'Komplexe Szenarien und Experten-Herausforderungen',
+      startButton: 'Bewertung starten'
+    }
+  },
+  fr: {
+    selectLanguage: 'Sélectionner la langue',
+    level: 'Niveau',
+    score: 'Score',
+    continue: 'Continuer au niveau suivant',
+    levelComplete: 'Niveau terminé !',
+    assessmentComplete: 'Évaluation terminée !',
+    finalScore: 'Score final',
+    proficiencyLevel: 'Votre niveau de compétence',
+    recommendations: 'Recommandations',
+    startNew: 'Commencer une nouvelle évaluation',
+    proficiency: {
+      Novice: 'Débutant',
+      Intermediate: 'Intermédiaire',
+      Advanced: 'Avancé'
+    },
+    landing: {
+      title: 'Évaluation de Cybersécurité',
+      subtitle: 'Testez vos connaissances et apprenez à vous protéger dans le monde numérique',
+      timeEstimate: 'Temps estimé',
+      timeDetail: '30-45 minutes pour tous les niveaux',
+      scoring: 'Système de points',
+      scoringDetail: 'Gagnez jusqu\'à 100 points par niveau avec feedback immédiat',
+      levels: 'Niveaux de difficulté',
+      levelsDetail: 'Défis progressifs du débutant à l\'avancé',
+      whatToExpect: 'À quoi s\'attendre',
+      level1Title: 'Niveau Débutant',
+      level1Description: 'Concepts de sécurité de base et pratiques quotidiennes',
+      level2Title: 'Niveau Intermédiaire',
+      level2Description: 'Menaces avancées et stratégies de protection',
+      level3Title: 'Niveau Avancé',
+      level3Description: 'Scénarios complexes et défis de niveau expert',
+      startButton: 'Commencer l\'évaluation'
+    }
+  },
+  lb: {
+    selectLanguage: 'Sprooch wielen',
+    level: 'Level',
+    score: 'Punkten',
+    continue: 'Weider op den nächste Level',
+    levelComplete: 'Level ofgeschloss!',
+    assessmentComplete: 'Bewäertung ofgeschloss!',
+    finalScore: 'Enpunktzuel',
+    proficiencyLevel: 'Däi Kenntnisniveau',
+    recommendations: 'Empfielungen',
+    startNew: 'Nei Bewäertung starten',
+    proficiency: {
+      Novice: 'Ufänger',
+      Intermediate: 'Fortgeschratt',
+      Advanced: 'Expert'
+    },
+    landing: {
+      title: 'Cybersécherheet Bewäertung',
+      subtitle: 'Test däi Wëssen a léier dech an der digitaler Welt ze schützen',
+      timeEstimate: 'Geschaten Zäit',
+      timeDetail: '30-45 Minutte fir all Levelen',
+      scoring: 'Punktesystem',
+      scoringDetail: 'Verdéngt bis zu 100 Punkte pro Level mat direktem Feedback',
+      levels: 'Schwieregkeetsgraden',
+      levelsDetail: 'Progressiv Erausfuerderunge vum Ufänger bis Expert',
+      whatToExpect: 'Wat ze erwaarden ass',
+      level1Title: 'Ufänger Level',
+      level1Description: 'Basis Sécherheetskonzepter an alldeeglech Praktiken',
+      level2Title: 'Fortgeschrattenen Level',
+      level2Description: 'Fortgeschratte Bedroungen a Schutzstrategien',
+      level3Title: 'Experten Level',
+      level3Description: 'Komplex Zenarie an Experten-Erausfuerderungen',
+      startButton: 'Bewäertung starten'
+    }
+  }
+};
